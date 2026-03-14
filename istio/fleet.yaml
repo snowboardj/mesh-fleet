@@ -1,5 +1,6 @@
 dependsOn:
-  - name: monitoring
+- name: monitoring
+
 helm:
   chart: rancher-istio
   repo: https://charts.rancher.io

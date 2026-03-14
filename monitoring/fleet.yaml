@@ -1,6 +1,8 @@
 dependsOn:
 - name: mesh-fleet-monitoring-ns
 
+defaultNamespace: cattle-monitoring-system
+
 helm:
   chart: rancher-monitoring
   repo: https://charts.rancher.io

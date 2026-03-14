@@ -1,6 +1,8 @@
 dependsOn:
 - name: mesh-fleet-monitoring
 
+namespace: istio-system
+
 helm:
   chart: rancher-istio
   repo: https://charts.rancher.io

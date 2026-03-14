@@ -1,7 +1,7 @@
 dependsOn:
 - name: mesh-fleet-monitoring
 
-namespace: istio-system
+defaultrNamespace: istio-system
 
 helm:
   chart: rancher-istio

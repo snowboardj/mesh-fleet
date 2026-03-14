@@ -8,3 +8,4 @@ helm:
   repo: https://charts.rancher.io
   releaseName: rancher-monitoring
   namespace: cattle-monitoring-system
+  createNamespace: true

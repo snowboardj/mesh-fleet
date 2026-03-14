@@ -1,0 +1,6 @@
+helm:
+  chart: rancher-istio
+  repo: https://charts.rancher.io
+  releaseName: rancher-istio
+  version: 103.0.0
+  namespace: istio-system

@@ -1,5 +1,5 @@
 dependsOn:
-- name: monitoring-crd
+- name: mesh-fleet-monitoring-crd
 
 helm:
   chart: rancher-monitoring

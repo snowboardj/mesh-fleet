@@ -1,2 +1,2 @@
 dependsOn:
-- name: istio
+- name: mesh-fleet-istio

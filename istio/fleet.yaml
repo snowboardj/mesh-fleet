@@ -1,5 +1,5 @@
 dependsOn:
-- name: monitoring
+- name: mesh-fleet-monitoring
 
 helm:
   chart: rancher-istio

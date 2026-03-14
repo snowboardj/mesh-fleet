@@ -4,3 +4,4 @@ helm:
   releaseName: rancher-istio
   version: 103.0.0
   namespace: istio-system
+  createNamespace: true
